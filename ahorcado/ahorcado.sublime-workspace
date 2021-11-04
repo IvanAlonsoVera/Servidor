@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"letras",
+				"letrasIntroducidas"
+			],
+			[
+				"vida",
+				"vidas"
+			],
+			[
+				"escoger",
+				"escogerPalabra"
+			],
+			[
+				"leadi",
+				"letrasAdivinadas"
+			],
+			[
+				"list",
+				"listaNumeros1000"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"value",
+				"value\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"elemento",
+				"elementosFila"
+			],
+			[
+				"elementos",
+				"elementosColumna"
+			],
+			[
+				"ele",
+				"elementosFila"
+			],
+			[
+				"ta",
+				"tablaDinamica"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"rel",
+				"relleno"
+			],
+			[
+				"res",
+				"resp2"
+			],
+			[
+				"t",
+				"typeof"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"cre",
+				"crearTabla"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"gett",
+				"gettype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Cookies/ahorcado.php",
+			"settings":
+			{
+				"buffer_size": 4690,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/DWEC/BASICOS/eventos"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/DWES/ahorcado/ahorcado.html",
+		"/C/xampp/htdocs/DWES/ahorcado/ahorcado.php",
+		"/T/daw2/Servidor/ahorcado/ahorcado.php",
+		"/T/daw2/Servidor/ahorcado/ahorcado.html",
+		"/C/xampp/htdocs/DWES/ahorcado/ahorcado2.php",
+		"/C/xampp/htdocs/DWES/Arrays/plantillaArrayIndexados.php",
+		"/C/xampp/htdocs/DWES/BASICOS/contador.php",
+		"/C/xampp/htdocs/DWES/BASICOS/contador.html",
+		"/C/xampp/htdocs/DWES/BASICOS/string/ejer5.php",
+		"/C/xampp/htdocs/DWES/BASICOS/string/ejer1.php",
+		"/C/xampp/htdocs/DWES/BASICOS/string/ejer2.php",
+		"/C/xampp/htdocs/DWES/BASICOS/string/ejer3.php",
+		"/C/xampp/htdocs/DWES/BASICOS/string/ejer4.php",
+		"/C/xampp/htdocs/DWES/BASICOS/string/ejer6.php",
+		"/C/xampp/htdocs/DWES/BASICOS/string/ejerciciosString.html",
+		"/C/xampp/htdocs/DWES/BASICOS/FuncMatematicas/trigonometrica.php",
+		"/C/xampp/htdocs/DWES/BASICOS/FuncMatematicas/aleatorio.php",
+		"/C/xampp/htdocs/DWES/BASICOS/FuncMatematicas/maxmin.php",
+		"/C/xampp/htdocs/DWES/BASICOS/FuncMatematicas/FuncMatematicas.html",
+		"/C/xampp/htdocs/DWEC/BASICOS/crearTabla/crearTabla.js",
+		"/C/xampp/htdocs/DWEC/BASICOS/crearTabla/crearTabla.html",
+		"/C/xampp/htdocs/DWEC/BASICOS/creaTablaDinamica/creaTablaDinamica.js",
+		"/C/xampp/htdocs/DWEC/BASICOS/creaTablaDinamica/creaTablaDinamica.html",
+		"/C/xampp/htdocs/DWES/BASICOS/calculadora/selector.php",
+		"/C/xampp/htdocs/DWES/BASICOS/formulario/dias.php",
+		"/C/xampp/htdocs/DWES/BASICOS/formulario/dias.html",
+		"/C/xampp/htdocs/DWES/BASICOS/formulario/tratarForm.php",
+		"/C/xampp/htdocs/DWES/BASICOS/formulario/formulario.html",
+		"/C/xampp/htdocs/DWEC/BASICOS/array/array.js",
+		"/C/xampp/htdocs/DWEC/BASICOS/array/array.html",
+		"/C/xampp/htdocs/DWEC/BASICOS/variablesTipos/declaraVariables.js",
+		"/C/xampp/htdocs/DWEC/BASICOS/variablesTipos/declaraVariables.html",
+		"/C/xampp/htdocs/DWEC/BASICOS/variablesTipos/variables.js",
+		"/C/xampp/htdocs/DWEC/BASICOS/variablesTipos/variables.html",
+		"/C/xampp/htdocs/DWES/BASICOS/compVariables.html",
+		"/C/Users/zx20student361/Documents/GitHub/forkeado/turi/tiposVariables.php",
+		"/C/xampp/htdocs/DWES/BASICOS/calculadora/selector.html",
+		"/C/xampp/htdocs/DWES/BASICOS/compvariables.php",
+		"/C/xampp/htdocs/DWES/BASICOS/deletrea.html",
+		"/C/xampp/htdocs/DWES/BASICOS/global.php",
+		"/C/xampp/htdocs/DWES/BASICOS/variables.php",
+		"/C/xampp/htdocs/DWES/BASICOS/deletrea.php",
+		"/C/xampp/htdocs/DWES/BASICOS/suma.html",
+		"/C/xampp/htdocs/DWES/BASICOS/interaccion1.php",
+		"/C/xampp/htdocs/DWES/BASICOS/tiposdevariables.php",
+		"/C/xampp/htdocs/DWEC/BASICOS/practica1/MiPrimerJavascript.js",
+		"/C/xampp/htdocs/DWEC/BASICOS/practica1/MiSegundoJavascript.js",
+		"/C/xampp/htdocs/DWEC/BASICOS/practica1/ejercicio1.html",
+		"/C/xampp/htdocs/DWES/BASICOS/tiposvariables.php",
+		"/C/Users/zx20student361/Desktop/clase/servidor/cosaPHp.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GET",
+			"escojer",
+			"set",
+			"cookie",
+			"COOKIE",
+			"post",
+			".\";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"COOKIE",
+			"escoger",
+			"GET",
+			"var_dump"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\DWES\\ahorcado"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\DWES\\Arrays"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\DWEC\\BASICOS\\eventos"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Cookies/ahorcado.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1982,
+								1982
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1305.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
