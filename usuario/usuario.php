@@ -19,7 +19,7 @@
 			return $sal;
 		}
 		function getUsu(){
-			
+			return $this->usu;
 		}
 
 	}
